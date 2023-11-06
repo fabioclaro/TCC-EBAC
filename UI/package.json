@@ -1,0 +1,25 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "Automação E2E para ecomerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fabioclaro/TCC-EBAC.git"
+  },
+  "keywords": [
+    "SHA256:LNAPmwmMNAotqfWzSixETbXIHGL8fjYH6Xi4Gfm9bcM"
+  ],
+  "author": "Fábio Claro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabioclaro/TCC-EBAC/issues"
+  },
+  "homepage": "https://github.com/fabioclaro/TCC-EBAC#readme",
+  "devDependencies": {
+    "cypress": "^13.4.0"
+  }
+}
